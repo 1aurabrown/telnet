@@ -1,0 +1,29 @@
++----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                                                |
+|                                                                                                                                                                |
+|    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    ooooooooooooooooooooooooooooooooooooooooooooo=ooooooooooooooooooooooo=oooooooooooooooooooooooooooooo=ooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    oooooooooooooooooooooooo+++++ooooooooooooo++++++++++++=ooooooooo+++++++++++++++++oooooooooooooooooo+:~~~~:+=oooooooo+:+++oooooo=o=++:+oooooooooooooooooo    |
+|    ooooooooooooooooooooooo+     =oooooooooooo~             +oooooo=                 oooooooooooooooo+           ooooooo=    ~oooooo+    :oooooooooooooooooo    |
+|    oooooooooooooooooooooo=       =ooooooooooo~   ~:::::~    +oooooo~~~~~:     :~~~~:ooooooooooooooo+   ~====~   ~ooooooo=~    oooo~    =ooooooooooooooooooo    |
+|    ooooooooooooooooooooo=    =   ~ooooooooooo    +oooooo+    oooooooooooo~   +ooooooooooooooooooooo+   ~==ooo====ooooooooo~    =o~    ooooooooooooooooooooo    |
+|    ooooooooooooooooooooo    =o+   ~o=oooooooo    :=++++:    :oooooooooooo~   :o=oooooooooooooooooooo:        ~+=ooooooooooo+        ~oooooooooooooooooooooo    |
+|    oooooooooooooooooooo~    :~:    +ooooooooo~             +ooooooooooooo~   +oooooooooooooooooooooooo+:        ~ooooooooooo=      +ooooooooooooooooooooooo    |
+|    ooooooooooooooooooo+             =oooooooo~   +o     ~=ooooooooooooo=o~   :ooooooooooooooooooooo===ooooo==~   +oooooooooooo    +oooooooooooooooooooooooo    |
+|    oooooooooooooooooo=    +++=+=+    oooooooo    +oo+    ~ooooooooooooooo~   +oooooooooooooooooooo=    =ooooo:   +oooooooooooo    =oooooooooooooooooooooooo    |
+|    ooooooooooooooooo=    +ooooooo~    ooooooo    +oooo~    :ooooooooooooo~   :ooooooooooooooooooooo:            ~ooooooooooooo    =oooooooooooooooooooooooo    |
+|    ooooooooooooooooo: ~ :ooooooooo~   +oooooo:   +ooooo=~   :oooooooooooo: ~ +oooooooooooooooooooooo=+~       :=oooooooooooooo~   =oooooooooooooooooooooooo    |
+|    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo~  ~oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo=    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo    |
+|                                                                                                                                                                |
+|                                                                                                                                                                |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------+
