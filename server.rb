@@ -2,7 +2,6 @@ require 'net/http'
 require 'eventmachine'
 require 'yaml'
 require 'uri'
-require 'pry'
 require 'json'
 
 module ArtsyServer
@@ -52,5 +51,5 @@ EventMachine.run do
   Signal.trap("INT")  { EventMachine.stop }
   Signal.trap("TERM") { EventMachine.stop }
 
-  EventMachine.start_server("0.0.0.0", 1234, ArtsyServer)
+  EventMachine.start_server("0.0.0.0", 23, ArtsyServer)
 end
