@@ -51,5 +51,5 @@ EventMachine.run do
   Signal.trap("INT")  { EventMachine.stop }
   Signal.trap("TERM") { EventMachine.stop }
 
-  EventMachine.start_server("0.0.0.0", 23, ArtsyServer)
+  EventMachine.start_server("0.0.0.0", 2323, ArtsyServer)
 end
